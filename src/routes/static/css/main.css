@@ -8,12 +8,11 @@
 a { text-decoration: none; }
 li { list-style: none; }
 section {
-    background: url('../image/background-site.jpg') no-repeat;
+    background: url('https://raw.githubusercontent.com/dropage/drop-deploy/main/src/routes/static/image/background-site.jpg') no-repeat;
     background-size: cover;
     min-height: 100vh;
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #171717;
 }
